@@ -1,0 +1,18 @@
+platformName: Android
+platformVersion: 6.0.1
+deviceName: M960BDQB229W5
+udid: adsdz123123
+app: C:\Users\Sixing\Desktop\App\liveclouddemo.1.0.apk
+noReset: False
+unicodeKeyboard: True
+automationName: UiAutomator2
+resetKeyboard: True
+appPackage: com.qihoo.livecloud.demo
+appActivity: com.qihoo.videocloud.NavigationActivity
+ip: 127.0.0.1
+port: 4723
+
+
+
+
+
